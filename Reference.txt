@@ -1,0 +1,3 @@
+How to Use Lookup Tables with Simulink
+
+https://www.youtube.com/watch?v=HmfwKoFHrO4
